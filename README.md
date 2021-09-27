@@ -1,2 +1,2 @@
 # Social-Network-System
-Social Network System using BFS(Graph)
+Social Network System using Graph
